@@ -1,0 +1,11 @@
+trained_models_weights/
+trained_models_weights/*
+trained_models_weights
+
+models_saved/
+models_saved/*
+models_saved
+
+debug_mistral/
+debug_mistral/*
+debug_mistral
