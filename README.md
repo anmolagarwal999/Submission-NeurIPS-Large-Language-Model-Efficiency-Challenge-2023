@@ -13,4 +13,6 @@ Our initial findings suggested that models like Mistral are very sensitive to th
 
 We also use an ensemble of models. For each query, we classify into which sort of task does it belong to (fact-based knowledge based task OR reasoning based-task) using Regex. 
 
-For any queries, please contact at either of the following emails: t-agarwalan@microsoft.com, anmolagarwal4453@gmail.com, ariy@microsoft.com
+For any queries, please contact at either of the following emails: t-agarwalan@microsoft.com, anmolagarwal4453@gmail.com, ariy@microsoft.com or feel free to open an issue. We operate from the +5:30 GMT timezone and hence, it might take us a day to respond.
+
+The dataset our winning submission uses is: https://huggingface.co/datasets/ajdesh2000/pegasus_combined_general_train_dataset 
